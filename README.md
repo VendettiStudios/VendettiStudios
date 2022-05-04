@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Learning Full Stack Design
 - 🌱 I’m currently learning ... Full Stack Web Design
 - 💞️ I’m looking to collaborate on ... Learning!
-- 📫 How to reach me ... 
+- 📫 How to reach me ... Daniel@VendettiStudios.com
 
 <!---
 LazingLion/LazingLion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
