@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LazingLion
-- 👀 I’m interested in ... Learning Full Stack Design
+- 👋 Hi, I’m @VendettiStudios
+- 👀 I’m interested in ... Building a career in Fullstack Design!
 - 🌱 I’m currently learning ... Full Stack Web Design
 - 💞️ I’m looking to collaborate on ... Learning!
 - 📫 How to reach me ... Daniel@VendettiStudios.com
